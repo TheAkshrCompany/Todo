@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208102842526",
+    "project_id": "todo-babad",
+    "storage_bucket": "todo-babad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208102842526:android:bd30c1bb3b1ccdf2239b8f",
+        "android_client_info": {
+          "package_name": "harsh.simpleTodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208102842526-2973q9u336pjgm5fbt1a7kl5jr85s9l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hnFWw-IfLdghXyjCNc4ADu3PEiefbQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208102842526-2973q9u336pjgm5fbt1a7kl5jr85s9l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

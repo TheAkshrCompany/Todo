@@ -1,4 +1,5 @@
 # Todo App
+[Todo App.pdf](https://docs.google.com/viewer?url=https://github.com/TheAkshrCompany/Todo/files/9193918/Todo.App.pdf)
 
 ### Welcome to Todo, Creating and syncing your Todo list is
 
